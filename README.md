@@ -2,11 +2,6 @@
 #include<stdlib.h>
 #include<math.h>
 
-int decision1(int **Arr, int m, int n);
-int decision2(int **Arr, int n, int m);
-int decision3(float **Arr2, float *Arr3, int n);
-int decision4(int **Arr, int **Arr4, int n, int m);
-
 
 int main()
 {
