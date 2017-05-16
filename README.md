@@ -1,11 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include<math.h>
 
-int decision1(int **Arr, int m, int n);
-int decision2(int **Arr, int n, int m);
-int decision3(float **Arr2, float *Arr3, int n);
-int decision4(int **Arr, int **Arr4, int n, int m);
 
 
 int main()
@@ -13,10 +8,7 @@ int main()
     int m, n, i, j, **Arr = NULL, d, **Arr4 = NULL;
     float **Arr2 = NULL, *Arr3 = NULL;
     
-    printf("\nEnter n and m\nn = ");
-    scanf("%i", &n);
-    printf("m = ");
-    scanf("%i", &m);
+    printf("");
     
     //Выделение памяти и заполнение массива случайными числами
     
