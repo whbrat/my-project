@@ -8,10 +8,7 @@ int main()
     int m, n, i, j, **Arr = NULL, d, **Arr4 = NULL;
     float **Arr2 = NULL, *Arr3 = NULL;
     
-    printf("\nEnter n and m\nn = ");
-    scanf("%i", &n);
-    printf("m = ");
-    scanf("%i", &m);
+    printf("");
     
     //Выделение памяти и заполнение массива случайными числами
     
